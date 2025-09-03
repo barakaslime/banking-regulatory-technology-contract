@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/automated-regulatory-reporting-and-compliance.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.real-time-risk-monitoring-and-alert-systems]
+path = 'contracts/real-time-risk-monitoring-and-alert-systems.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
